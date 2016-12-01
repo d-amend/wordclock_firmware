@@ -1,0 +1,3 @@
+[submodule "apa102-arduino"]
+    path = lib/apa102-arduino
+    url = https://github.com/pololu/apa102-arduino.git
